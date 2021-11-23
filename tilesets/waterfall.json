@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"waterfall.png",
+ "imageheight":576,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"waterfall",
+ "spacing":0,
+ "tilecount":576,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
