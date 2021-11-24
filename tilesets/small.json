@@ -1,0 +1,60 @@
+{ "columns":8,
+ "image":"small.png",
+ "imageheight":544,
+ "imagewidth":256,
+ "margin":0,
+ "name":"small",
+ "spacing":0,
+ "tilecount":136,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6",
+ "wangsets":[
+        {
+         "colors":[
+                {
+                 "color":"#ff0000",
+                 "name":"",
+                 "probability":1,
+                 "tile":32
+                }],
+         "name":"Big Mountain",
+         "tile":32,
+         "type":"corner",
+         "wangtiles":[
+                {
+                 "tileid":32,
+                 "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                }, 
+                {
+                 "tileid":33,
+                 "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                }, 
+                {
+                 "tileid":34,
+                 "wangid":[0, 1, 0, 0, 0, 1, 0, 0]
+                }, 
+                {
+                 "tileid":35,
+                 "wangid":[0, 0, 0, 1, 0, 0, 0, 1]
+                }, 
+                {
+                 "tileid":40,
+                 "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                }, 
+                {
+                 "tileid":41,
+                 "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                }, 
+                {
+                 "tileid":42,
+                 "wangid":[0, 0, 0, 1, 0, 0, 0, 1]
+                }, 
+                {
+                 "tileid":43,
+                 "wangid":[0, 1, 0, 0, 0, 1, 0, 0]
+                }]
+        }]
+}
